@@ -40,6 +40,19 @@ As a title says, let's see how to deal with multithreading in HTML5.
 
 Thare are two posts, one is [Basic Collision Detection and Response](http://www.metanetsoftware.com/technique.html), the other is [Grid-Based Collision Detection and Raycasting](http://www.metanetsoftware.com/technique.html).
 
+## Useful Tools
+*   [Firebug](http://getfirebug.com/)
+
+Everyone should know:-)
+
+*   [jQuery](http://jquery.com/)
+
+A JavaScript Framework to make life easier.
+
+*   [CodeMirror](http://codemirror.net/)
+
+A JavaScript componet that provides a code editor in the browser.
+
 ## Useful Resources
 [BRIGHT HUB](http://www.brighthub.com) is great!
 
