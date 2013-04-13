@@ -27,6 +27,15 @@ Below are the links for the **Game Development with Javascript and the Canvas el
 
 **The Demos** will reside in the "demos" directory with their own individual sub-directory, also you can get the **original demos** at [Sourceforge](http://webdemos.sourceforge.net/) and [Source Code](http://sourceforge.net/projects/webdemos/?source=navbar).
 
+## Tutorials
+*   [Canvas Tutorial](http://billmill.org/static/canvastutorial/index.html)
+
+This tutorial gives instructions on how to create a breakout clone that you can play in your browser, using JavaScript and the <canvas> element.
+
+*   [Introduction to the HTML5 Web Workers: the JavaScript multithreading approach](http://blogs.msdn.com/b/davrous/archive/2011/07/15/introduction-to-the-html5-web-workers-the-javascript-multithreading-approach.aspx)
+
+As a title says, let's see how to deal with multithreading in HTML5.
+
 ## Useful Resources
 [BRIGHT HUB](http://www.brighthub.com) is great!
 
@@ -36,6 +45,7 @@ To start with JavaScript, follow [this](http://www.brighthub.com/internet/web-de
 
 ## Great Games with JavaScript and Canvas
 *   [Galactic Plunder](http://dougx.net/plunder/plunder.html)
+
 This game, written in JavaScript using the HTML5 Canvas and Audio objects, was developed as a proof of concept that a shooter-style game can be coded without the use of any Flash.  Source code is [Here](http://dougx.net/plunder/index.php#code).
 
 ## Todo
