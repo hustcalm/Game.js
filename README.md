@@ -34,6 +34,10 @@ To begin learn about web development, I strongly recommend the articles [here](w
 
 To start with JavaScript, follow [this](http://www.brighthub.com/internet/web-development/topics/javascript-help.aspx).
 
+## Great Games with JavaScript and Canvas
+*   [Galactic Plunder](http://dougx.net/plunder/plunder.html)
+This game, written in JavaScript using the HTML5 Canvas and Audio objects, was developed as a proof of concept that a shooter-style game can be coded without the use of any Flash.  Source code is [Here](http://dougx.net/plunder/index.php#code).
+
 ## Todo
 * Enhancement to the framework itself ( but still focus on 2D games)
 * Translate the series into Chinese and post at [My Blog](http://www.hustcalm.me)
