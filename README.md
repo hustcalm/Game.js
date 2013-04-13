@@ -40,6 +40,10 @@ As a title says, let's see how to deal with multithreading in HTML5.
 
 Thare are two posts, one is [Basic Collision Detection and Response](http://www.metanetsoftware.com/technique.html), the other is [Grid-Based Collision Detection and Raycasting](http://www.metanetsoftware.com/technique.html).
 
+*   [Mozilla's canvas tutorial](https://developer.mozilla.org/en/Drawing_Graphics_with_Canvas)
+
+Mozilla is always leading the web development, isn't it?
+
 ## Useful Tools
 *   [Firebug](http://getfirebug.com/)
 
