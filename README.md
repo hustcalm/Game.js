@@ -36,6 +36,10 @@ This tutorial gives instructions on how to create a breakout clone that you can 
 
 As a title says, let's see how to deal with multithreading in HTML5.
 
+*   [Collision Detection](http://www.metanetsoftware.com/technique.html)
+
+Thare are two posts, one is [Basic Collision Detection and Response](http://www.metanetsoftware.com/technique.html), the other is [Grid-Based Collision Detection and Raycasting](http://www.metanetsoftware.com/technique.html).
+
 ## Useful Resources
 [BRIGHT HUB](http://www.brighthub.com) is great!
 
